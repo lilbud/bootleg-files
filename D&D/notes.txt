@@ -1,0 +1,9 @@
+To get the sepia effect, use the "Hue/Saturation" in the image tab of photoshop. Other image editors may have a similiar feature, though not sure.
+
+Select the colorize checkbox. Use the following settings:
+
+Hue: 33
+Saturation: 46
+Lightness: -24
+
+Font used for venue and city is B. Springsteen Handwriting
